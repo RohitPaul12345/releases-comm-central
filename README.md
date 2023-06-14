@@ -1,7 +1,7 @@
-# Thunderbird
+# THUNDERBIRD
 Thunderbird is a powerful and customizable open source email client with lots of users. It is based on the same platform that Firefox uses.
 
-## Getting Started
+## Getting  Started
 This README will try and give you the basics that you need to get started, more comprehensive documentation is available on the [Thunderbird Developer Website](https://developer.thunderbird.net).
 
 ### Mozilla Code Base
@@ -13,9 +13,9 @@ In order to be able to build Thunderbird - you will need the mozilla-central rep
 
 The mozilla-central repostitory contains the Firefox codebase and all of the platform code. The comm-central repository is added as a subdirectory "comm/" under mozilla-central. This contains the code for Thunderbird.
 
-## Building Thunderbird
+## Building THUNDERBIRD
 
-### Build Prerequisites
+### Build  Prerequisites
 
 This README assumes that you already have the prerequisite software required to build Thunderbird. If you have not already done so, please complete the instructions for your operating system and then continue following this guide:
 
